@@ -47,20 +47,11 @@ date_format = "Jan 2006"
   description = """Research engineer working on Computer Vision projects"""
 
 [[experience]]
-  title = "Software Engineer"
-  company = "KitchHike"
+  title = "Machine Learning Engineer"
+  company = "Grid"
   company_url = ""
   location = "Tokyo"
-  date_start = "2016-04-01"
-  date_end = "2016-08-01"
-  description = """Built a web application as a software engineer"""
-
-[[experience]]
-  title = "Software Engineer"
-  company = "Div"
-  company_url = ""
-  location = "Tokyo"
-  date_start = "2014-09-01"
-  date_end = "2016-04-01"
-  description = """Built a web application as a software engineer"""
+  date_start = "2017-09-01"
+  date_end = "2018-09-01"
+  description = """Research engineer working on Computer Vision projects"""
 +++
