@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Visiting Scholar at University of Southern California
+role: Visiting Scholar
 
 # Organizations/Affiliations
 organizations:
