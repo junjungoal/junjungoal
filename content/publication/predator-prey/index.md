@@ -1,5 +1,5 @@
 ---
-title: "Evolution of Complex Predator-Prey Ecosystem"
+title: "Evolution of a Complex Predator-Prey Ecosystem on Large-scaleMulti-Agent Deep Reinforcement Learning"
 authors:
 - Jun Yamada
 - John Shawe-Taylor
