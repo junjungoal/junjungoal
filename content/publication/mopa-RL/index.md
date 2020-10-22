@@ -1,8 +1,8 @@
 ---
 title: "Motion Planner Augmented Reinforcement Learning for Robot Manipulation in Obstructed Environments"
 authors:
-- Jun Yamada
-- Youngwoon Lee
+- Jun Yamada*
+- Youngwoon Lee*
 - Gautam Salhotra
 - Karl Pertsch
 - Max Pflueger
