@@ -79,4 +79,4 @@ user_groups:
 - Visitors
 ---
 
-I am a visiting scholar at the University of Southern California, advised by [Joseph J. Lim](https://viterbi-web.usc.edu/~limjj/). I finished my MSc in [DSML](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/data-science-machine-learning-msc) at University College London, supervised by [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/) and [Zafeirios Fountas](http://zfountas.com/). I got my BSc at Keio University in Japan, advised by Akito Sakurai. I am currently looking for a PhD position starting from 2021 Fall.
+I am a visiting scholar at the University of Southern California, advised by [Joseph J. Lim](https://viterbi-web.usc.edu/~limjj/). I finished a master's degree in [DSML](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/data-science-machine-learning-msc) at University College London, supervised by [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/) and [Zafeirios Fountas](http://zfountas.com/). I got my BSc at Keio University in Japan, advised by Akito Sakurai.
